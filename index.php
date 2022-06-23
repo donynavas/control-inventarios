@@ -1,4 +1,5 @@
 <?php
-header("location:superior.php");
+
+header("Location:login.php");
 
 ?>
